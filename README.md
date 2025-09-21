@@ -1,0 +1,1 @@
+Minimal example of PySide6 QTreeView/QStandardItemModel app with working reordering of rows via drag and drop.
